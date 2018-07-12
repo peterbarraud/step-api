@@ -1,0 +1,4 @@
+test_log_for_rest_api/
+.idea/
+__pycache__/
+venv/
